@@ -4,6 +4,7 @@ Welcome to the Rin Library, a comprehensive React-Native Expo UI Library designe
 
 **Components**
 **1. Rin DateTime Picker Input**
+
 ![image](https://github.com/usamaH-dotdev/rinlibrary/assets/126305135/821d1a8f-936a-4dae-affd-5fe4360fd208)
 
 *import { RinDateTimePickerInput } from 'rin-library';
@@ -13,6 +14,7 @@ Props
 onChange: Callback function triggered on date/time selection.
 
 **2. Rin DateTime Picker Input 2**
+
 ![image](https://github.com/usamaH-dotdev/rinlibrary/assets/126305135/8dea5173-6f31-4aab-b981-e51f8f35a49a)
 
 *import { RinDateTimePickerInput2 } from 'rin-library';
@@ -22,6 +24,7 @@ Props
 onChange: Callback function triggered on date/time selection.
 
 **3. Rin Cards**
+
 ![image](https://github.com/usamaH-dotdev/rinlibrary/assets/126305135/b35dacd5-1c81-4ba9-8cc3-de2c31cea1ed)
 
 *import { RinCards } from 'rin-library';
@@ -31,6 +34,7 @@ Props
 items: An array of objects representing card content.
 
 **4. Rin Input Fields**
+
 ![image](https://github.com/usamaH-dotdev/rinlibrary/assets/126305135/e8eee147-f846-4acb-bff5-9ecd17aedd73)
 
 *import { RinInputFields } from 'rin-library';
@@ -40,6 +44,7 @@ Props
 onSubmit: Callback function triggered on form submission.
 
 **5. Rin CheckBox & Toggler**
+
 ![image](https://github.com/usamaH-dotdev/rinlibrary/assets/126305135/2eac140f-b7d2-4f03-9467-2a8a7998bc49)
 
 *import { RinCheckBoxAndToggler } from 'rin-library';
@@ -49,6 +54,7 @@ Props
 onChange: Callback function triggered on checkbox or toggler state change.
 
 **6. Rin Calendar**
+
 ![image](https://github.com/usamaH-dotdev/rinlibrary/assets/126305135/3176a8e0-7077-4c69-86d8-b37912436dc2)
 
 import { RinCalendar } from 'rin-library';
